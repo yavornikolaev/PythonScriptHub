@@ -1,0 +1,12 @@
+user1@server1.example.com
+user2@server2.example.com
+user3@server3.example.com
+user4@server3.example.com
+user4@server4.example.com
+user5@server5.example.com
+user65@server1.example.com
+user21@server2.example.com
+user35@server3.example.com
+user42@server3.example.com
+user41@server4.example.com
+user55@server5.example.com
